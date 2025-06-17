@@ -7,7 +7,7 @@ with open("LOG.txt", "r") as log:
 ====
 and
 ====
-def sort_log_by_td(): # Ця функція сортує лог у різні файли залежачи від типу інформації
+def sort_log_by_td():
     for i in range(len(lines_list)):
         type_of_output = str(sorting_type(lines_list[i]))
         l_type_of_output = type_of_output.lower()
