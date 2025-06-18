@@ -1,4 +1,4 @@
-🗂️ Log Sorter
+🗂️ Log Sorter:
 This script automatically sorts log entries from the main file LOG.txt by timestamp and message type: INFO, WARNING, or ERROR.
 It includes a simple terminal menu for user interaction.
 
