@@ -16,9 +16,6 @@ Add your logs to the LOG.txt file.
 
 Run the script:
 
-bash
-Копіювати
-Редагувати
 python your_script_name.py
 A menu will appear in the terminal:
 
